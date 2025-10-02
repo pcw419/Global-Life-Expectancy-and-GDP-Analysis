@@ -106,6 +106,12 @@ Explore the interactive world GDP map (1990–2021) here:
 
 ---
 
+## Reports
+- [Capstone Article(pdf) https://drive.google.com/file/d/13ySO-k8P8sn9bH7utcG2n0vB3l1G5qQQ/view?usp=sharing]
+- [Capstone Research Paper(pdf) https://drive.google.com/file/d/13d9MMbwV_EBzbhHzNUUCetN6XhV0LK9c/view?usp=sharing]
+
+---
+
 ## Data Sources
 - [UNDP: Human Development and Life Expectancy Data](https://hdr.undp.org/)  
 - [World Bank: GDP Data](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?view=map&year=2008)  
